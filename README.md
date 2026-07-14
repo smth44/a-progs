@@ -6,8 +6,8 @@
 4. Субботовский Дмитрий
 
 Версии бибилиотек Python:
-NumPy: 2.2.0
-Pandas: 2.2.3
-Scikit-learn:  1.6.0
-XGBoost: 3.2.0
-LightGBM: 4.6.0
+  NumPy: 2.2.0
+  Pandas: 2.2.3
+  Scikit-learn:  1.6.0
+  XGBoost: 3.2.0
+  LightGBM: 4.6.0
